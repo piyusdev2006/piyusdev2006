@@ -44,6 +44,18 @@ Here are some ideas to get you started:
 
 ---
 
+## 📊 Competitive Programming Stats
+
+<p align="center">
+  <a href="https://leetcode.com/Navi_2006/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Navi_2006?ext=activity&theme=dark&font=baloo&animation=true" width="48%" alt="LeetCode Stats">
+  </a>
+<!--   <a href="https://codeforces.com/profile/codewithnavi" target="_blank">
+    <img src="https://cf-stats.vercel.app/api/codeforces?username=codewithnavi" width="48%" alt="Codeforces Stats">
+  </a> -->
+</p>
+
+
 ### 🛠️ Tech Stack
 
 <p>
