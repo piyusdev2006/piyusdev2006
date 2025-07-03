@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Competitive Programming Stats
+## 📊 Leetcode Stats
 
 <p align="center">
   <a href="https://leetcode.com/Navi_2006/" target="_blank">
