@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://twitter.com/t_s_me_Naveen" target="_blank">
+  <a href="https://twitter.com/It_s_me_Naveen" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/piyusdev2006" target="_blank">
