@@ -122,4 +122,4 @@ Here are some ideas to get you started:
 
 ---
 
-> 📌 “Made with ❤️ by Piyush — always building, always learning.”
+> 📌 “Made with ❤️ by Naveen — always building, always learning.”
