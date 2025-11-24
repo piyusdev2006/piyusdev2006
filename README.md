@@ -76,10 +76,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=piyusdev2006&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=piyusdev2006&theme=dark&hide_border=true" 
     alt="GitHub Streak Stats"
   />
 </p>
+
 
 
 ---
