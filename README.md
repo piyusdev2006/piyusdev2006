@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 <p align="center">
-  💻 2nd Year CS Student | 🛠️ Backend Dev & DevOps Learner | 💬 Open Source Enthusiast <br/>
+  💻 3rd Year CS Student | 🛠️ Backend Dev & DevOps Learner | 💬 Open Source Enthusiast <br/>
   🚀 Passionate about building, deploying, and scaling developer tools & services
 </p>
 
@@ -75,8 +75,12 @@ Here are some ideas to get you started:
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=piyusdev2006&theme=dark&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=piyusdev2006&theme=dark&hide_border=true" 
+    alt="GitHub Streak Stats"
+  />
 </p>
+
 
 ---
 
