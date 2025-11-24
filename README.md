@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there, I'm Piyush 👋</h1>
+<h1 align="center">Hey there, I'm Naveen Singh 👋</h1>
 
 
 ## 🧑‍💻 About Me
