@@ -106,14 +106,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=piyusdev2006&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 LeetCode Stats
 
 <p align="center">
