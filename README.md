@@ -34,7 +34,7 @@
 ## 📦 Featured Projects
 
 <p align="center">
-  🚀 <b>NaviDocs / BlogWebApp</b> — A premium, developer-first documentation & blogging platform inspired by Linear and ChaiDocs  
+  🚀 <b>CodeFolio</b> — A premium, developer-first documentation & blogging platform inspired by Linear and ChaiDocs  
   🔗 <a href="https://github.com/piyusdev2006/BlogWebApp">View Project</a>  
   <br/><br/>
   📦 <b>Smart Logistics Engine (DSA Project)</b> — A data-structure-driven logistics optimization system  
