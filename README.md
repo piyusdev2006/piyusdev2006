@@ -89,12 +89,12 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=piyusdev2006&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piyusdev2006&layout=compact&theme=github_dark&hide_border=true" width="45%" />
-</p>
+</p> -->
 
 ---
 
